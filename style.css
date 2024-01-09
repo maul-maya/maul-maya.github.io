@@ -213,8 +213,11 @@ body{
     height: 200px;
 }
 
+.info i{
+    font-size: 1.2rem;
+}
 .info span{
-    font-size: 1.3rem;
+    font-size: 1rem;
 }
 
 .rsvp {
