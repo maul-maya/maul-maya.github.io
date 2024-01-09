@@ -591,6 +591,13 @@ footer{
     padding-top: 20rem;
 }
 
+.info i{
+    font-size: 1.8rem;
+}
+.info span{
+    font-size: 1.3rem;
+}
+
 }
 
 /* MOBILE */
