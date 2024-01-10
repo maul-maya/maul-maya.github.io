@@ -96,7 +96,7 @@ body{
     background-image: url(img/background-maul.png);
     background-size: cover;
     background-position: center;
-    min-height: 80vh;
+    min-height: auto;
     
     padding-top: 10rem;
     padding-bottom: 10rem;
@@ -289,7 +289,7 @@ body{
     background-image: url(img/background-maul.png);
     background-size: cover;
     background-position: center;
-    min-height: 80vh; 
+    min-height: auto; 
     padding-top: 10rem;
     padding-bottom: 10rem;
     border-radius: 25px 25px 0px 0px ;
@@ -470,7 +470,7 @@ footer{
 .pembuka, .penutup{
     background-image: url(img/background-maul-mobile.png);
     padding-top: 10rem;
-    min-height: 100vh;
+    min-height: auto;
 }
 
 
@@ -540,12 +540,12 @@ footer{
 .pembuka {
     background-image: url(img/background-mobile2.png);
     padding-top: 15rem;
-    min-height: 100vh;
+    min-height: auto;
 }
 .penutup {
     background-image: url(img/background-mobile2.png);
     padding-top: 15rem;
-    min-height: 100vh;
+    min-height: auto;
 }
 
 .home .couple h3{
@@ -624,9 +624,9 @@ footer{
 
    .pembuka {
     padding-top: 10rem;
-}
+    }
     .penutup {
-        padding-top: 15rem;
+     padding-top: 15rem;
     }
     .home{
         padding-top: 20rem;
